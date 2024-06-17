@@ -1,0 +1,14 @@
+						Python - Installation 
+Steps to Install Python:-
+Step1:- Checking python software installed or not in laptop/computer
+Step2:- Download and Install python software
+https://www.python.org/downloads/
+Step3:- Important step while installing software
+Step4:- Check the python version
+
+By
+Akkem Sreenivasa
+eMail: akkemsreenivasa@gmail.com
+YouTube: https://www.youtube.com/@akkemsreenivasa
+GitHub: https://github.com/akkemsreenivasa
+
