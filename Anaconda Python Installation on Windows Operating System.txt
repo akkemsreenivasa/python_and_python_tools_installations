@@ -1,0 +1,16 @@
+						Anaconda Python - Installation 
+Steps to Install Anaconda Python:-
+Step1:- Checking python software installed or not in laptop/computer
+Step2:- Download and Install Anaconda Python software
+https://www.anaconda.com/download
+Step3:- Important step while installing software
+Step4:- Check Anaconda Python Installed or Not
+a) Check Python Version
+b) Open Anaconda Navigator
+
+By
+Akkem Sreenivasa
+eMail: akkemsreenivasa@gmail.com
+YouTube: https://www.youtube.com/@akkemsreenivasa
+GitHub: https://github.com/akkemsreenivasa
+
